@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "dummy-apps-ibovate"
+  },
+  "targets": {
+    "dummy-apps-ibovate": {
+      "hosting": {
+        "app_1": ["dummy-app-1-ibovate"],
+        "app_2": ["dummy-app-2-ibovate"],
+        "app_3": ["dummy-app-3-ibovate"],
+        "app_4": ["dummy-app-4-ibovate"],
+        "app_5": ["dummy-app-5-ibovate"],
+        "app_6": ["dummy-app-6-ibovate"],
+        "app_7": ["dummy-app-7-ibovate"],
+        "app_8": ["dummy-app-8-ibovate"],
+        "app_9": ["dummy-app-9-ibovate"],
+        "app_10": ["dummy-app-10-ibovate"]
+      }
+    }
+  }
+}
